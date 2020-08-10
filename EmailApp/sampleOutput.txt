@@ -1,0 +1,103 @@
+User generated 
+Enter the department name 
+1 - Accounts 
+2 - Sales 
+3 - Production 
+0 - Others 
+
+3
+User details
+---------------------------------------------
+First Name :Tony
+Last Name :Stark
+Department :Production
+Password :Wuwpgo02&
+Email id :tony.stark@company.com
+Mail capacity :100
+Alternative email_id :-
+---------------------------------------------
+Enter the option you want to perform
+1. Change password
+2. Change MailBox limit
+3. Set alternate email
+4. Display details
+1
+Enter new password
+Password policy
+1.Dont use username as password 
+2. Length should be greater than 8
+Note : A strengthen password should have combination of spl char, number and caps
+tony@123
+Password policy violated
+
+Password policy
+1.Dont use username as password 
+2. Length should be greater than 8
+Note : A strengthen password should have combination of spl char, number and caps
+
+Jarvis@123
+Password changed sucessfully
+want to continue give 
+ y - Yes    n - No
+y
+Enter the option you want to perform
+1. Change password
+2. Change MailBox limit
+3. Set alternate email
+4. Display details
+2
+Enter capacity you want
+500
+Mailbox limit changed to 500
+want to continue give 
+ y - Yes    n - No
+y
+Enter the option you want to perform
+1. Change password
+2. Change MailBox limit
+3. Set alternate email
+4. Display details
+4
+User details
+---------------------------------------------
+First Name :Tony
+Last Name :Stark
+Department :Production
+Password :Jarvis@123
+Email id :tony.stark@company.com
+Mail capacity :500
+Alternative email_id :-
+---------------------------------------------
+want to continue give 
+ y - Yes    n - No
+y
+Enter the option you want to perform
+1. Change password
+2. Change MailBox limit
+3. Set alternate email
+4. Display details
+3
+Enter alternative email address
+iam.ironMan@Avengers.com
+Alternate email address added :iam.ironMan@Avengers.com
+want to continue give 
+ y - Yes    n - No
+y
+Enter the option you want to perform
+1. Change password
+2. Change MailBox limit
+3. Set alternate email
+4. Display details
+4
+User details
+---------------------------------------------
+First Name :Tony
+Last Name :Stark
+Department :Production
+Password :Jarvis@123
+Email id :tony.stark@company.com
+Mail capacity :500
+Alternative email_id :iam.ironMan@Avengers.com
+---------------------------------------------
+want to continue give 
+ y - Yes    n - No
