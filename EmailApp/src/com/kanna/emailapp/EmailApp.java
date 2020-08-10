@@ -9,7 +9,7 @@ public class EmailApp {
 
 	public static void main(String[] args) {
 
-		Email obj1 = new Email("Kanna", "tjk"); // New User
+		Email obj1 = new Email("Tony", "Stark"); // New User
 		boolean flag = true;
 		int option = 0;
         
