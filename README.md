@@ -5,7 +5,6 @@ My Java applications
    * A simple JAVA core application 
    * Core java concepts are used to implement email creation for employees in firm.
    * Password is geneated randomly by using alpha numeric combination.
-   <br/>
    [Sample output](https://github.com/kannatj/JavaApps/tree/master/EmailApp/sampleOutput.txt)
    
    
